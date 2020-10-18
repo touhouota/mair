@@ -1,0 +1,4 @@
+#! /usr/bin/env ruby
+require "mair"
+
+puts Mair.to_s
