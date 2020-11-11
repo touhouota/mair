@@ -7,6 +7,7 @@ gemspec
 
 gem "rake"
 gem "rspec"
+gem "google-api-client"
 
 group :development do
   gem "rubocop", require: false
